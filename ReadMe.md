@@ -31,7 +31,7 @@ npm install
 Just clone the repo and run below command to see.
 
 ```sh
-yarn start
+yarn start:dev
 or
 npm run start
 ```
