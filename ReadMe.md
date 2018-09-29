@@ -1,6 +1,10 @@
 # Klinify Task
 > Uses React and ES6 constructs to build a simple image upload, crop and print.
 
+Live Here
+
+https://klinify.netlify.com/
+
 #What can it do? 
 
 1. Upload image.
